@@ -1,5 +1,5 @@
 # 💫 About Me:
-👱🏼 Sinh viên ngành điện tử viễn thông tại Trường đại học Công nGhệ - DHQGHN
+👱🏼 Sinh viên ngành điện tử viễn thông tại Trường đại học Công nGhệ - DHQGHN <br/>
 👨🏻‍💻 Hiện đang học tập và làm việc xoay quanh Laravel và PHP
 
 
